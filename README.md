@@ -1,5 +1,9 @@
 # Grocery-Shop
 
+![image](https://github.com/Vidhi093/Grocery-Shop-JDBC/assets/149268685/5fe2d45f-92bd-4979-8723-9bbdc2b21583)
+![image](https://github.com/Vidhi093/Grocery-Shop-JDBC/assets/149268685/38fe0447-8677-44ff-a456-92ed7821539c)
+![image](https://github.com/Vidhi093/Grocery-Shop-JDBC/assets/149268685/678e84fb-2f1c-482a-aa47-3619b1e2a3fd)
+
 ### `ShopController` Class
 
 #### Description:
